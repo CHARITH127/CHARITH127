@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Wishvajith
+## I'm a Software Developer, Web Developer, web Designer.<br><br>
+![coverImage](assests/images/coverImage.jpg)
 
-<!--
-**CHARITH127/CHARITH127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Following a Diploma in Software Engineering at IJSE
+- 🔭 I am Currently learning about Internet Technologies
+- 🔭 My main coding language : Java
+- 🔭 Programming Skills : Java, JavaFx, HTML, CSS,MySql
+- 🔭 Design Skills :Figma
+- ⚡ Fun fact: I love to travel 
+<br><br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+![linkedIn](assests/images/linkdIn.png)
