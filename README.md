@@ -11,8 +11,18 @@
 <br><br>
 
 ### Connect with me:
-![linkedIn](assests/images/linkdIn.png)
+<div align="center">
+    [<img height="25" src = "https://img.shields.io/badge/linkedin-00614A.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn] 
+</div>
+
+
+[linkedin]: https://www.linkedin.com/in/w-c-wishvajith-6011b1226/
+
 <br>
-[![Charith's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHARITH127)](https://github.com/anuraghazra/github-readme-stats)
-![Charith's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHARITH127&hide=contribs,prs)
-![Charith's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHARITH127&count_private=true)
+<h3 align="center">
+Git Status
+</h3>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CHARITH127&show_icons=true" alt="CHARITH127|Stats"/>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=CHARITH127&date_format=M%20j%5B%2C%20Y%5D"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHARITH127&theme=vue"/> </p>
+
